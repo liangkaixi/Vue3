@@ -1,5 +1,5 @@
 <template>
-    <h1>hello remember</h1>
+    <h1>hello 看清看淡</h1>
 </template>
 <script setup>
 
